@@ -1,0 +1,9 @@
+{
+  "devDependencies": {
+    "eslint-plugin-react": "^7.37.4",
+    "eslint-plugin-react-hooks": "^5.1.0"
+  },
+  "dependencies": {
+    "classnames": "^2.5.1"
+  }
+}
